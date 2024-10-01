@@ -8,12 +8,16 @@ interface Props {
   img: string;
 }
 
-const Card = ({ id, name, price, description, img }: Props) => {
+const Card = ({ name, price, img }: Props) => {
   return (
     <div className={styles.card}>
       <h1 className={styles.name}>{name}</h1>
       <figure>
-        <img onClick={() => window.location.href = img} src={img} className={styles.img} />
+        <img
+          onClick={() => (window.location.href = img)}
+          src={img}
+          className={styles.img}
+        />
       </figure>
       <div className={styles.price}>
         <h2>R$ {price}</h2>
