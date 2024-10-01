@@ -3,120 +3,140 @@
     "id": 1,
     "name": "Caneta Azul",
     "price": 2.5,
-    "description": "Caneta esferográfica azul, ideal para escrita diária."
+    "description": "Caneta esferográfica azul, ideal para escrita diária.",
+    "img": "https://midias.correiobraziliense.com.br/_midias/jpg/2023/07/11/1000x1000/1_manoel_gomes_1_76952-28482348.jpeg?20230711142508?20230711142508"
   },
   {
     "id": 2,
-    "name": "Caderno Universitário",
+    "name": "Caderno",
     "price": 15.0,
-    "description": "Caderno com 200 folhas pautadas, capa dura."
+    "description": "Caderno com 200 folhas pautadas, capa dura.",
+    "img": "https://copyhouse.com.br/cdn/shop/files/caderno_capa_dura_personalizado_rio_de_janeiro_01_1200x1200.jpg?v=1682426496"
   },
   {
     "id": 3,
-    "name": "Mochila Escolar",
+    "name": "Mochila",
     "price": 80.0,
-    "description": "Mochila resistente com compartimentos para livros e laptop."
+    "description": "Mochila resistente com compartimentos para livros e laptop.",
+    "img": "https://images.tcdn.com.br/img/img_prod/886231/mochila_masculina_18_schock_preta_5907_1_9f65b96a1a223c80fe5bd40562cad95c.jpg"
   },
   {
     "id": 4,
     "name": "Fone de Ouvido",
     "price": 120.0,
-    "description": "Fone de ouvido sem fio, com som de alta qualidade."
+    "description": "Fone de ouvido sem fio, com som de alta qualidade.",
+    "img": "https://www.eccosalva.com.br/eccomoney/wp-content/uploads/2022/12/Fone-De-Ouvido-Sem-Fio-Bluetooth-A6s-Pro-In-ear.webp"
   },
   {
     "id": 5,
-    "name": "Garrafa Térmica",
+    "name": "Garrafa",
     "price": 45.0,
-    "description": "Garrafa térmica de aço inox, mantém bebidas quentes por 12h."
+    "description": "Garrafa térmica de aço inox, mantém bebidas quentes por 12h.",
+    "img": "https://d3u78y5eqxgzxv.cloudfront.net/Custom/Content/Products/54/33/54335_garrafa-term-go-flip-charc-709ml-stanley-1un-pr-11886-803201_m1_638210630697450642.png"
   },
   {
     "id": 6,
     "name": "Mouse Sem Fio",
     "price": 35.0,
-    "description": "Mouse ergonômico, conexão via Bluetooth."
+    "description": "Mouse ergonômico, conexão via Bluetooth.",
+    "img": "https://images.tcdn.com.br/img/img_prod/867113/mouse_multilaser_sem_fio_2_4_ghz_1200_dpi_usb_preto_mo251_3787_1_7db3f0fc4f4d5e8452133c1b11ba5abb.jpg"
   },
   {
     "id": 7,
-    "name": "Teclado Mecânico",
+    "name": "Teclado",
     "price": 250.0,
-    "description": "Teclado mecânico com iluminação RGB e switches rápidos."
+    "description": "Teclado mecânico com iluminação RGB e switches rápidos.",
+    "img": "https://images.kabum.com.br/produtos/fotos/163972/teclado-mecanico-gamer-husky-gaming-blizzard-rgb-switch-gateron-brown-abnt2-branco-hgmo023_1635794107_gg.jpg"
   },
   {
     "id": 8,
     "name": "Relógio Digital",
     "price": 90.0,
-    "description": "Relógio digital à prova d'água com cronômetro."
+    "description": "Relógio digital à prova d'água com cronômetro.",
+    "img": "https://img.irroba.com.br/fit-in/500x500/filters:fill(fff):quality(80)/lojalaro/catalog/produtos/combos/sapatenis-street-em-couro-preto-gratis-relogio-digital-preto/relogio-smartband-foto1.jpg"
   },
   {
     "id": 9,
-    "name": "Calculadora Científica",
+    "name": "Calculadora",
     "price": 60.0,
-    "description": "Calculadora científica com funções avançadas para estudantes."
+    "description": "Calculadora científica com funções avançadas para estudantes.",
+    "img": "https://mirandacomputacao.jetassets.com.br/produto/38812-principal.png"
   },
   {
     "id": 10,
     "name": "Luminária LED",
     "price": 50.0,
-    "description": "Luminária de mesa com ajuste de brilho e design moderno."
+    "description": "Luminária de mesa com ajuste de brilho e design moderno.",
+    "img": "https://img.irroba.com.br/fit-in/500x500/filters:fill(fff):quality(80)/broketto/catalog/lumanti/luminaria-led-sobrepor-18w-quadrada-borda-preta-6500k-fria-1.jpg"
   },
   {
     "id": 11,
     "name": "Cadeira Gamer",
     "price": 850.0,
-    "description": "Cadeira ergonômica, ideal para longas sessões de jogos."
+    "description": "Cadeira ergonômica, ideal para longas sessões de jogos.",
+    "img": "https://images-americanas.b2w.io/produtos/2662981872/imagens/cadeira-gamer-fox-racer-ate-130kgs-com-rgb-e-iluminacao-led-com-almofadas-reclinavel-preta/2662981899_1_large.jpg"
   },
   {
     "id": 12,
     "name": "Smartphone",
     "price": 1800.0,
-    "description": "Smartphone com tela de 6.5 polegadas e câmera de alta resolução."
+    "description": "Smartphone com tela de 6.5 polegadas e câmera de alta resolução.",
+    "img": "https://lojamultilaser.vtexassets.com/arquivos/ids/1188068-800-auto?v=638518057081070000&width=800&height=auto&aspect=true"
   },
   {
     "id": 13,
     "name": "Tablet",
     "price": 1200.0,
-    "description": "Tablet com 64GB de armazenamento e tela de 10 polegadas."
+    "description": "Tablet com 64GB de armazenamento e tela de 10 polegadas.",
+    "img": "https://fastshopbr.vtexassets.com/arquivos/ids/498713/0_SGSMP620CNZZF_PRD_1500_1.jpg?v=638617914171730000"
   },
   {
     "id": 14,
-    "name": "Console de Video Game",
+    "name": "Console",
     "price": 2500.0,
-    "description": "Console de última geração, suporte para 4K e jogos imersivos."
+    "description": "Console de última geração, suporte para 4K e jogos imersivos.",
+    "img": "https://images.tcdn.com.br/img/img_prod/993382/console_playstation_5_c_drive_2_controles_brancos_headset_ps5_479_1_9cb8ac5191fbdbbdbe24d3a4c1c38f9d.jpg"
   },
   {
     "id": 15,
-    "name": "Impressora Multifuncional",
+    "name": "Impressora",
     "price": 450.0,
-    "description": "Impressora com scanner e copiadora integrada, conexão Wi-Fi."
+    "description": "Impressora com scanner e copiadora integrada, conexão Wi-Fi.",
+    "img": "https://images.tcdn.com.br/img/img_prod/27440/impressora_multifuncional_hp_laserjet_m125_220v_usada_e_revisada_om_garantia_27311_1_b94b2f226f653d41c31101a581c01260.jpg"
   },
   {
     "id": 16,
-    "name": "Pendrive 32GB",
+    "name": "Pendrive",
     "price": 25.0,
-    "description": "Pendrive compacto com armazenamento de 32GB."
+    "description": "Pendrive compacto com armazenamento de 32GB.",
+    "img": "https://cdn.awsli.com.br/600x450/645/645318/produto/28463955a88a05a3f2.jpg"
   },
   {
     "id": 17,
     "name": "Cabo HDMI",
     "price": 20.0,
-    "description": "Cabo HDMI de alta velocidade para transmissão de vídeo em Full HD."
+    "description": "Cabo HDMI de alta velocidade para transmissão de vídeo em Full HD.",
+    "img": "https://images.tcdn.com.br/img/img_prod/603604/cabo_hdmi_1_4_tecpower_full_hd_1_80_metros_3145_1_20200710111115.jpg"
   },
   {
     "id": 18,
-    "name": "Ventilador de Mesa",
+    "name": "Ventilador",
     "price": 70.0,
-    "description": "Ventilador portátil com ajuste de velocidade e rotação."
+    "description": "Ventilador portátil com ajuste de velocidade e rotação.",
+    "img": "https://cdn.leroymerlin.com.br/products/ventilador_de_mesa_parede_40cm_127v_preto_turbo_force_2_em_1_91912324_0001_600x600.jpg"
   },
   {
     "id": 19,
-    "name": "Carregador Portátil",
+    "name": "Carregador",
     "price": 150.0,
-    "description": "Powerbank com 10.000mAh, ideal para carregar smartphones e tablets."
+    "description": "Powerbank com 10.000mAh, ideal para carregar smartphones e tablets.",
+    "img": "https://m.media-amazon.com/images/I/51XeweL+5uL._AC_UF1000,1000_QL80_.jpg"
   },
   {
     "id": 20,
-    "name": "Monitor Full HD",
+    "name": "Monitor Full",
     "price": 900.0,
-    "description": "Monitor de 24 polegadas com resolução Full HD e design slim."
+    "description": "Monitor de 24 polegadas com resolução Full HD e design slim.",
+    "img": "https://i.zst.com.br/thumbs/12/1c/9/-542081790.jpg"
   }
 ]

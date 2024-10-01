@@ -10,6 +10,7 @@ interface Products {
   name: string;
   price: number;
   description: string;
+  img: string;
 }
 
 function App() {
@@ -21,22 +22,28 @@ function App() {
 
   return (
     <>
-      <h1>LISTA DE PRODUTOS</h1>
-      {products.length === 0 ? (
-        <h1>Não há produtos disponíveis...</h1>
-      ) : (
-        products.map((item) => (
+      <header>
+        <h1 className="title">LISTA DE PRODUTOS</h1>
+      </header>
+      <main>
+        <section>
           <div className="container">
-            {/* <Card
-              id={item.id}
-              name={item.name}
-              price={item.price}
-              description={item.description}
-            /> */}
-            <div className="">a</div>
+            {products.length === 0 ? (
+              <h1>Não há produtos!</h1>
+            ) : (
+              products.map((items) => (
+                <Card
+                  id={items.id}
+                  name={items.name}
+                  description={items.description}
+                  price={items.price}
+                  img={items.img}
+                />
+              ))
+            )}
           </div>
-        ))
-      )}
+        </section>
+      </main>
     </>
   );
 }

@@ -1,0 +1,12 @@
+.title {
+  margin: 1rem;
+}
+
+.container {
+  justify-content: center;
+  flex-wrap: wrap;
+  max-width: 90%;
+  margin: auto;
+  display: flex;
+  gap: 1.5rem;
+}
