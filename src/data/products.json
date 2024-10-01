@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Caneta Azul",
+    "price": 2.5,
+    "description": "Caneta esferográfica azul, ideal para escrita diária."
+  },
+  {
+    "id": 2,
+    "name": "Caderno Universitário",
+    "price": 15.0,
+    "description": "Caderno com 200 folhas pautadas, capa dura."
+  },
+  {
+    "id": 3,
+    "name": "Mochila Escolar",
+    "price": 80.0,
+    "description": "Mochila resistente com compartimentos para livros e laptop."
+  },
+  {
+    "id": 4,
+    "name": "Fone de Ouvido",
+    "price": 120.0,
+    "description": "Fone de ouvido sem fio, com som de alta qualidade."
+  },
+  {
+    "id": 5,
+    "name": "Garrafa Térmica",
+    "price": 45.0,
+    "description": "Garrafa térmica de aço inox, mantém bebidas quentes por 12h."
+  },
+  {
+    "id": 6,
+    "name": "Mouse Sem Fio",
+    "price": 35.0,
+    "description": "Mouse ergonômico, conexão via Bluetooth."
+  },
+  {
+    "id": 7,
+    "name": "Teclado Mecânico",
+    "price": 250.0,
+    "description": "Teclado mecânico com iluminação RGB e switches rápidos."
+  },
+  {
+    "id": 8,
+    "name": "Relógio Digital",
+    "price": 90.0,
+    "description": "Relógio digital à prova d'água com cronômetro."
+  },
+  {
+    "id": 9,
+    "name": "Calculadora Científica",
+    "price": 60.0,
+    "description": "Calculadora científica com funções avançadas para estudantes."
+  },
+  {
+    "id": 10,
+    "name": "Luminária LED",
+    "price": 50.0,
+    "description": "Luminária de mesa com ajuste de brilho e design moderno."
+  },
+  {
+    "id": 11,
+    "name": "Cadeira Gamer",
+    "price": 850.0,
+    "description": "Cadeira ergonômica, ideal para longas sessões de jogos."
+  },
+  {
+    "id": 12,
+    "name": "Smartphone",
+    "price": 1800.0,
+    "description": "Smartphone com tela de 6.5 polegadas e câmera de alta resolução."
+  },
+  {
+    "id": 13,
+    "name": "Tablet",
+    "price": 1200.0,
+    "description": "Tablet com 64GB de armazenamento e tela de 10 polegadas."
+  },
+  {
+    "id": 14,
+    "name": "Console de Video Game",
+    "price": 2500.0,
+    "description": "Console de última geração, suporte para 4K e jogos imersivos."
+  },
+  {
+    "id": 15,
+    "name": "Impressora Multifuncional",
+    "price": 450.0,
+    "description": "Impressora com scanner e copiadora integrada, conexão Wi-Fi."
+  },
+  {
+    "id": 16,
+    "name": "Pendrive 32GB",
+    "price": 25.0,
+    "description": "Pendrive compacto com armazenamento de 32GB."
+  },
+  {
+    "id": 17,
+    "name": "Cabo HDMI",
+    "price": 20.0,
+    "description": "Cabo HDMI de alta velocidade para transmissão de vídeo em Full HD."
+  },
+  {
+    "id": 18,
+    "name": "Ventilador de Mesa",
+    "price": 70.0,
+    "description": "Ventilador portátil com ajuste de velocidade e rotação."
+  },
+  {
+    "id": 19,
+    "name": "Carregador Portátil",
+    "price": 150.0,
+    "description": "Powerbank com 10.000mAh, ideal para carregar smartphones e tablets."
+  },
+  {
+    "id": 20,
+    "name": "Monitor Full HD",
+    "price": 900.0,
+    "description": "Monitor de 24 polegadas com resolução Full HD e design slim."
+  }
+]
